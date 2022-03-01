@@ -277,10 +277,10 @@ HomeComponent.ɵfac = function HomeComponent_Factory(t) { return new (t || HomeC
 HomeComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: HomeComponent, selectors: [["ng-component"]], decls: 9, vars: 2, consts: [["src", "../../assets/Candidates/banner-min.jpeg", 1, "img-fluid"], [1, "mt-3"], [1, "p-2", 2, "text-align", "center"], ["id", "line-strip"], [3, "description", "lastPlat"]], template: function HomeComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](0, "img", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "H3", 1);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](2, "Hey Bearcats!");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](2, "Heyo Bolder Bearcats! ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](3, "p");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](4, " Smitherman + Martinez here! We're very excited to be running to be your next Student Body President + Vice President at the University of Cincinnati! We look forward to every interaction with you over this week and can't wait to learn what's most important to you! We hope to share more about our vision and platform and build the movement to help students succeed!\n");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](4, " Our names are Isaac Smitherman and Yulia Martinez, and we are so excited to be running to be your next Undergraduate Student Government President and Vice President at the University of Cincinnati. We have a vision for a bolder UC and we hope that you can embark on this journey with us in becoming Bolder Bearcats! Check out our platform and follow us on all on our social medias so that you can stay updated on how were going to change our university for the better.\n");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](5, "H1", 2);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](6, "What We Stand For");
